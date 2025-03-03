@@ -22,30 +22,7 @@ Day 16	Strings	String to Integer (atoi), Implement strStr(), Longest Repeating C
 Day 17	Strings	Encode and Decode Strings, Count and Say, String Compression	String Manipulation, Greedy	React Js Editable Todo
 Day 18	Strings	Find All Anagrams in a String, Permutation in String, Smallest Substring with All Chars	Sliding Window, Hash Map	Memory Game
 Day 19	Strings	Decode Ways, Word Break, Regular Expression Matching	Dynamic Programming	Infinite Nested Comments
-Daily Routine (2 Hours)
-6:00 AM - 7:00 AM: DSA Preparation
-Warm-Up (10 mins):
 
-
-
-7:00 AM - 8:00 AM: Machine Coding Preparation
-Watch the Video (20-30 mins):
-
-Watch the machine coding video from the playlist.
-
-Focus on understanding the problem statement, approach, and implementation.
-
-Implement the Component (30-40 mins):
-
-Build the component from scratch.
-
-Use CodeSandbox, CodePen, or your local development environment.
-
-Test and Debug (10 mins):
-
-Test your implementation for edge cases and bugs.
-
-Optimize the code for performance and readability.
 
 Key Patterns
 Arrays
